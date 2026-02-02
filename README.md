@@ -1,4 +1,12 @@
-## Hi there 👋
+## Good morning lil stars, earth says `Hello world` ✨
+
+- I'm currently a Software Engineer Intern at Oracle.
+
+**My interests:**
+
+- 🌳 Taking care of my bonsais
+- 📖 Reading books
+- 🚀 Backend, Cloud and Cybersecurity
 
 <!--
 **jmit4/jmit4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
