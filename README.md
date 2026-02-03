@@ -10,7 +10,7 @@
 
 
 Visit my blog, where you can find my essays, thoughts, and ideas:
-https://github.com/jmit4/jmit4.github.io
+[https://github.com/jmit4/jmit4.github.io](https://jmit4.github.io/)
 
 
 <!--
