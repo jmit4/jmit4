@@ -8,6 +8,11 @@
 - 📖 Reading books
 - 🚀 Backend, Cloud and Cybersecurity
 
+
+Visit my blog, where you can find my essays, thoughts, and ideas:
+https://github.com/jmit4/jmit4.github.io
+
+
 <!--
 **jmit4/jmit4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
